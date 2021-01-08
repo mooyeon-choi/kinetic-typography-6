@@ -2,11 +2,11 @@
 
 실습을 통해 Creative Coding Tutorial을 학습하며 만들어본 네번째 프로젝트입니다.
 
-[페이지 바로가기](https://mooyeon-choi.github.io/kinetic-typography-4/)
+[페이지 바로가기](https://mooyeon-choi.github.io/kinetic-typography-6/)
 
 ## About The Project
 
-[![Example](./images/kinetic-typography-4-example.gif)](https://mooyeon-choi.github.io/kinetic-typography-4/)
+[![Example](./images/kinetic-typography-6-example.gif)](https://mooyeon-choi.github.io/kinetic-typography-6/)
 
 * PC환경에서는 마우스, Mobile환경에서는 터치로 동작합니다.
 
